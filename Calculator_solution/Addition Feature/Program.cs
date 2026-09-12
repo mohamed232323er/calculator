@@ -10,13 +10,13 @@ class Program
         Console.Write("Enter second number: ");
         double num2 = Convert.ToDouble(Console.ReadLine());
 
-        double result = Add(num1, num2);
+        double result = Subtract(num1, num2);
 
         Console.WriteLine($"Result: {result}");
     }
 
-    static double Add(double num1, double num2)
+    static double Subtract(double num1, double num2)
     {
-        return num1 + num2;
+        return num1 - num2;
     }
 }
