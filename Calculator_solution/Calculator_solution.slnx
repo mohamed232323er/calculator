@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Addition Feature/Addition Feature.csproj" />
+  <Project Path="continuous-calculation-feature/continuous-calculation-feature.csproj" Id="1c68b729-9aee-4d57-a69c-e0b898e043df" />
+  <Project Path="Division feature/Division feature.csproj" Id="75e4e31f-13a7-4ca3-8a85-5de75fdda1db" />
+  <Project Path="multiplication feature/multiplication feature.csproj" Id="e59e77fe-9c57-4884-930e-6d508b42e6e6" />
+  <Project Path="subtraction featrue/subtraction featrue.csproj" Id="0442e849-49cc-45bc-ba74-0e535a0b5825" />
+</Solution>
